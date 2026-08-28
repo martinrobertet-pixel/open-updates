@@ -1,0 +1,24 @@
+{
+  "channel" : "stable",
+  "notesURL" : "",
+  "platforms" : {
+    "macos" : {
+      "installer" : "pkg",
+      "minimumOS" : "14.0",
+      "sha256" : "a3c8dbd35bd4db75a14efe58fb842db134398ba1cd19d0407ec56b2f86f983bb",
+      "sizeBytes" : 3167529,
+      "url" : "https:\/\/github.com\/martinrobertet-pixel\/open-updates\/releases\/download\/v3.2.1\/Open-3.2.1-intel.pkg"
+    },
+    "windows" : {
+      "installer" : "exe",
+      "minimumOS" : "10.0.19041.0",
+      "sha256" : "e3da833fbf6c908a7ae4719d4d46c38ee770f1834f12641da5ec8fd42eb53105",
+      "sizeBytes" : 89881227,
+      "url" : "https:\/\/github.com\/martinrobertet-pixel\/open-updates\/releases\/download\/v3.2.1\/Open-Setup-3.2.1-windows-x64.exe"
+    }
+  },
+  "product" : "Open",
+  "publishedAt" : "2026-08-28T04:12:36Z",
+  "schema" : 1,
+  "version" : "3.2.1"
+}
