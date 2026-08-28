@@ -5,20 +5,20 @@
     "macos" : {
       "installer" : "pkg",
       "minimumOS" : "14.0",
-      "sha256" : "59702779f2c5fa523103850efc8820e40fc4a7c80283385a3f8f500532a2257b",
-      "sizeBytes" : 3179573,
-      "url" : "https:\/\/github.com\/martinrobertet-pixel\/open-updates\/releases\/download\/v3.2.3\/Open-3.2.3-intel.pkg"
+      "sha256" : "1c961e16edbe9e052b5866feb1dd3dcda7f09231333079471434cdba1ab825d0",
+      "sizeBytes" : 3176411,
+      "url" : "https:\/\/github.com\/martinrobertet-pixel\/open-updates\/releases\/download\/v3.2.4\/Open-3.2.4-intel.pkg"
     },
     "windows" : {
       "installer" : "exe",
       "minimumOS" : "10.0.19041.0",
-      "sha256" : "3f735e426dcac4b91c7088891d37c0647c0107f63d060fe27324b726a23ec419",
-      "sizeBytes" : 89881293,
-      "url" : "https:\/\/github.com\/martinrobertet-pixel\/open-updates\/releases\/download\/v3.2.3\/Open-Setup-3.2.3-windows-x64.exe"
+      "sha256" : "b8311da7fdf9d730339a8d8d997c6fb9bb3654ba6b83b76890fbca8b67a30fbe",
+      "sizeBytes" : 89876209,
+      "url" : "https:\/\/github.com\/martinrobertet-pixel\/open-updates\/releases\/download\/v3.2.4\/Open-Setup-3.2.4-windows-x64.exe"
     }
   },
   "product" : "Open",
-  "publishedAt" : "2026-08-28T04:40:27Z",
+  "publishedAt" : "2026-08-28T04:47:23Z",
   "schema" : 1,
-  "version" : "3.2.3"
+  "version" : "3.2.4"
 }
