@@ -3,12 +3,12 @@
     <channel>
         <title>Open</title>
         <item>
-            <title>3.2.11</title>
-            <pubDate>Sat, 29 Aug 2026 09:45:11 +0700</pubDate>
-            <sparkle:version>3211</sparkle:version>
-            <sparkle:shortVersionString>3.2.11</sparkle:shortVersionString>
+            <title>3.2.12</title>
+            <pubDate>Sat, 29 Aug 2026 10:13:07 +0700</pubDate>
+            <sparkle:version>3212</sparkle:version>
+            <sparkle:shortVersionString>3.2.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/martinrobertet-pixel/open-updates/releases/download/v3.2.11/Open-3.2.11-macos.zip" length="4351536" type="application/octet-stream" sparkle:edSignature="0w14HKF2iAn37EpkggBEa/qr1MYebGiYkgsTXmgT1BCCTVHAWdWvQFH3wPrzBK/qac76akNUvLrBU0dbnzwgDg=="/>
+            <enclosure url="https://github.com/martinrobertet-pixel/open-updates/releases/download/v3.2.12/Open-3.2.12-macos.zip" length="4365039" type="application/octet-stream" sparkle:edSignature="ZNDtPQfO/Es/yHJ+fyHDfC3u/zt8z6blA7QjqxpQiSucBotAs6YQ//eZfWUPdZiY9RJIw07YSYWNplyIjx/IDQ=="/>
         </item>
     </channel>
 </rss>
